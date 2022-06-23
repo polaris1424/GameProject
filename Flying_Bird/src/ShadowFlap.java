@@ -13,7 +13,7 @@ import org.lwjgl.system.CallbackI;
  * Skeleton Code for SWEN20003 Project 1, Semester 2, 2021
  *
  * Please filling your name below
- * @author: LPM
+ * @author: MLP
  */
 public class ShadowFlap extends AbstractGame {
     /***********************Image ******************************8********/
